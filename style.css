@@ -30,14 +30,15 @@ body {
 }
 
 .judul h1 {
-  font-family: "Cute", cursive;
-  margin: 0;
+  font-family: 'Wonder Boy In Monster World', sans-serif; 
+  margin: 0px;
+  font-size: 22px;
 }
 
 .judul p {
-  font-family: "cute", cursive;
-  font-size: 24px;
-  margin-top: 10;
+  font-family: 'Wonder Boy In Monster World', sans-serif; 
+  font-size: 15px;
+  margin-top: 24px;
 }
 
 .box {
